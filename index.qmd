@@ -26,12 +26,15 @@ author-contributions: "Eren has developed the project further from the previous 
 
 
 ---
-# Undergraduate Student Donuts
+# Undergraduate Student Donuts and Majors
 :::{.article-author}
 Eyup Eren Yurek
 :::
 
-![CESTA Students Data](data/imgs/placeholder.jpg)
+![CESTA Students Data](data/imgs/cesta_ug_student_bubbles.png)
+
+![CESTA Students Data](data/imgs/cesta_undergraduate_data.png)
+
 
 
 
