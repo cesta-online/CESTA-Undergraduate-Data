@@ -13,7 +13,7 @@ format:
     template-partials: 
       - template/title-block.html
 # do not edit ends
-title: "Anthology Article Template"
+title: "CESTA Student Data"
 session: "Summer 2024"
 image: "data/imgs/placeholder.jpg"
 project-members: 
