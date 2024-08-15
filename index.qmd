@@ -33,7 +33,11 @@ Eyup Eren Yurek
 
 ![CESTA Students Data](data/imgs/cesta_ug_student_bubbles.png)
 
+The bubbles above represent the majors each CESTA Undergraduate Researchers had over the last 13 years. If a student had two majors, they have been added to the graph above twice. That's why this is the graph of  amounts of majors at CESTA over time.
+
 ![CESTA Students Data](data/imgs/cesta_undergraduate_data.png)
+
+Each donut above represnts a Stanford Undergraduate student. The number of colors a donut has is equivalent to the number of times (quarters) they interned with CESTA over their Stanford career. CESTA is proud to say that we have many students work with us over many years in the same or different projects, bringing new insights into the projects. We are also providing the data table below. Please reach out to us if you have any questions.
 
 
 # CESTA Fellows Data
@@ -43,27 +47,15 @@ Eyup Eren Yurek
 
 This article focuses on the years of DH research fellows, the years they were fellows, and their departments/programs.
 
-## Visualizations
-Quarto allows the users to run Python and R code directly in the page and get their output. This means that cool and interactive visualizations generated using Python or R can be rendered directly in the page. Please ensure that the essential library dependencies are installed to render the visualizations. For example, the following visualization requires `plotly` library which is installed along with the requirements. Whenever you install a new library, don't forget to add it to `requirements.txt`.
-
-Whenever an interactive visualization is added, an equivalent static image alternative should also be added for the Anthology print version. Refer to the code below.
-
-The content below will appear only in the html version.
+## Visualization
 
 ::: {.content-visible when-format="html"}
 ### Interactive Plotly Chart
-For a demonstration of a Plotly chart, see @fig-example.
+
+The visualization below is made in Flourish--a tool for data visualizations. it shows each Digital Humanities Research Fellow's fellowship year and their department. Each line represents one fellow.
 
 ```{=html}
 <iframe src='https://flo.uri.sh/visualisation/18719637/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/18719637/?utm_source=embed&utm_campaign=visualisation/18719637' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 :::
 
-The content below will appear only in the pdf output but not in the html version.
 
-::: {.content-visible when-format="pdf"}
-The below content will appear only in PDF format.
-![](data/imgs/placeholder.jpg)
-:::
-
-## Observable
-Similar to Python and R code, Quarto is also capable of handling Observable. Please refer to the [official documentation](https://quarto.org/docs/computations/ojs.html) for more details.
