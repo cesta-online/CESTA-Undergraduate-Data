@@ -15,7 +15,7 @@ format:
 # do not edit ends
 title: "CESTA Student Data"
 session: "Summer 2024"
-image: "data/imgs/placeholder.jpg"
+image: "data/imgs/cesta_undergraduate_data.png"
 project-members: 
   - name: Eyup Eren Yurek
     designation: Programs and Research Coordinator at CESTA
